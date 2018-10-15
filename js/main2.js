@@ -1,0 +1,1 @@
+/*Búðu til aðra vefsíðu með tveimur <input type=”text”/> reitum og einum takka. Það sem takkinn gerir er að setja inn nýtt div með textanum úr báðum input-unum (svipað og við gerðum með tix (nema bara ekki stolið frá tix í þetta skipti)*/
